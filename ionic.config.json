@@ -1,0 +1,7 @@
+{
+  "name": "Rutas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
